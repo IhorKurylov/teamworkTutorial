@@ -19,6 +19,8 @@ function App() {
         >
           Learn React
         </a>
+        <h2>From task 3 changes</h2>
+
         <MessageComponent />
         <Card />
         <MessageComponent />
