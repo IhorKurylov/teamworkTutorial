@@ -26,7 +26,11 @@ function App() {
         <h2>Task5 part 2</h2>
         <h2>Task5 part 3</h2>
 
-
+        <h2>From task 4 changes</h2>
+        <h2>From task 4 changes</h2>
+        <h2>From task 4 changes</h2>
+        <h2>From task 4 changes</h2>
+        <h2>From task 4 changes</h2>
         <MessageComponent />
         <Card />
         <MessageComponent />
