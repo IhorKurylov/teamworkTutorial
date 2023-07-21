@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Card from './components/Card/Card.js';
 import MessageComponent from './components/MessageComponent.js';
 
 function App() {
@@ -18,9 +19,11 @@ function App() {
         >
           Learn React
         </a>
+        <Card />
         <MessageComponent />
       </header>
       <MessageComponent />
+      <Card />
     </div>
   );
 }
