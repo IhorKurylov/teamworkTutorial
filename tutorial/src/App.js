@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Card from './components/Card/Card.js';
+import MessageComponent from './components/MessageComponent.js';
 
 function App() {
   return (
@@ -18,8 +19,11 @@ function App() {
         >
           Learn React
         </a>
+        <MessageComponent />
         <Card />
+        <MessageComponent />
       </header>
+      <MessageComponent />
       <Card />
     </div>
   );
